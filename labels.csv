@@ -1,0 +1,89 @@
+filename,building,entrance,ramp,stairs_only,level_entrance,door_width,auto_opener
+anabelltaylorhall-front-01.png,Anabel Taylor Hall,front,no,no,yes,wide,no
+appel-back-01.png,Appel Commons,back,no,no,yes,wide,yes
+bailey-back-01.png,Bailey Hall,back,no,yes,no,narrow,no
+bailey-back-02.png,Bailey Hall,back,no,no,yes,wide,no
+bailey-back-03.png,Bailey Hall,back,no,no,yes,narrow,yes
+bailey-back-04.png,Bailey Hall,back,yes,no,yes,wide,yes
+bailey-front-01.png,Bailey Hall,front,no,yes,no,wide,no
+baker-back-01.png,Baker Lab,back,yes,no,yes,narrow,yes
+baker-back-02.png,Baker Lab,back,no,no,yes,wide,yes
+bakerhall-front-01.png,Baker Hall,front,no,yes,no,narrow,no
+bakerhall-front-02.png,Baker  Hall,front,no,yes,no,narrow,no
+bakerhall-front-03.png,Baker  Hall,front,no,no,yes,narrow,no
+bakersouth-front-01.png,Baker South,front,no,yes,no,narrow,no
+barbaramcclintock-back-01.png,Barbara McClintock,back,no,no,yes,narrow,yes
+bard-front-01.png,Bard Hall,front,no,yes,no,wide,no
+bartels-front-01.png,Bartels,front,no,no,yes,wide,no
+bartels-front-02.png,Bartels,front,no,no,yes,wide,yes
+barton-back-01.png,Barton Hall,back,no,no,yes,wide,no
+barton-back-02.png,Barton Hall,back,no,no,yes,wide,yes
+boldt-back-01.png,Boldt Hall,back,no,no,yes,narrow,no
+caldwell-front-01.png,Caldwell Hall,front,no,no,yes,wide,no
+carpenter-front-01.png,Carpenter Hall,front,no,no,yes,wide,no
+carterhall-front-01.png,Carter Hall,front,yes,no,no,wide,no
+chelseaprep-front-01.png,Chelsea Prep,front,yes,no,no,wide,no
+computingandcommunications-back-01.png,Computing and Communications Center,back,no,no,yes,wide,yes
+comstock-front-01.png,Comstock Hall,front,no,yes,no,wide,no
+courtkaybauer-back-01.png,Court Kay Bauer,back,no,no,yes,wide,no
+courtkaybauer-back-02.png,Court Kay Bauer,back,no,no,yes,wide,yes
+dayhall-back-01.png,Day Hall,back,no,no,yes,narrow,yes
+donlon-back-01.png,Mary Donlon Hall,back,no,yes,no,wide,no
+donlon-front-01.png,Mary Donlon Hall,front,no,yes,no,wide,no
+duffield-front-01.png,Duffield Hall,front,no,no,yes,wide,yes
+fairviewlibrary-front-01.png,Fairview Library,front,yes,no,no,wide,no
+founders-front-01.png,Founders Hall,front,no,yes,no,narrow,no
+founders-front-02.png,Founders Hall,front,no,yes,no,narrow,no
+gsh-back-01.png,Goldwin Smith Hall,back,no,no,yes,wide,yes
+helen-front-01.png,Helen Newman Hall,front,no,no,yes,narrow,no
+herbertmuseum-front-01.png,Herbert F. Johnson Museum of Art,front,no,no,yes,wide,yes
+hollister-back-01.png,Hollister Hall,back,no,no,yes,wide,no
+home-front-01.png,Home,front,yes,no,no,wide,no
+hospital-front-01.png,Hospital,front,yes,no,no,wide,no
+hushih-front-01.png,Hu Shih Hall,front,no,no,yes,wide,yes
+kennedy-back-01.png,Kennedy Hall,back,no,yes,no,wide,no
+kennedy-front-01.png,Kennedy Hall,front,no,no,yes,wide,no
+kimball-front-01.png,Kimball Hall,front,no,no,yes,wide,no
+klarman-front-01.png,Klarman Hall,front,no,no,yes,wide,yes
+lilahall-front-01.png,Lila Hall,front,yes,no,no,wide,no
+lincolnhall-back-01.png,Lincoln Hall,back,no,no,yes,narrow,yes
+lyon-back-01.png,Lyon Hall,back,no,no,yes,narrow,no
+lyon-front-01.png,Lyon Hall,front,no,yes,no,narrow,no
+malott-back-01.png,Malott Hall,back,no,no,yes,wide,yes
+malott-front-01.png,Malott Hall,front,no,yes,no,wide,no
+maplewoodacademic-front-01.png,Maplewood Academic Center,front,yes,no,no,wide,no
+mennen-front-01.png,Mennen Hall,front,no,no,yes,narrow,no
+mews-back-01.png,Mews Hall,back,no,no,yes,narrow,yes
+mews-back-02.png,Mews Hall,back,no,no,yes,narrow,yes
+mvr-back-01.png,Martha Van Reissler,back,no,yes,no,narrow,no
+mvr-back-02.png,Martha Van Reissler,back,no,no,yes,wide,no
+oakridgemedical-front-01.png,Oakridge Medical Center,front,yes,no,no,wide,no
+olinlibrary-front-01.png,Olin Library,front,no,no,yes,wide,yes
+olivetjadenhall-back-01.png,Olive Tjaden Hall,back,no,yes,no,wide,no
+phillips-front-01.png,Phillips Hall,front,no,yes,no,wide,no
+pinecrestcommunitycenter-front-01.png,Pinecrest Community Center,front,yes,no,no,wide,no
+plantscience-front-01.png,Plant Science,front,no,no,yes,wide,yes
+psb-front-01.png,Physical Sciences Building,front,no,no,yes,wide,yes
+randhall-back-01.png,Rand Hall,back,no,no,yes,narrow,no
+rbg-back-01.png,Ruth Bader Ginsburg,back,no,no,yes,narrow,yes
+rbg-back-02.png,Ruth Bader Ginsburg,back,no,no,yes,wide,yes
+rbg-front-01.png,Ruth Bader Ginsburg,front,no,no,yes,wide,yes
+rhodes-front-01.png,Rhodes Hall,front,no,no,yes,wide,yes
+rileyrobb-back-01.png,Riley Robb Hall,back,no,no,yes,wide,no
+rileyrobb-front-01.png,Riley Robb Hall,front,no,yes,no,wide,no
+rivermountscience-front-01.png,Rivermount Science,front,yes,no,no,wide,no
+riverviewlibrary-front-01.png,Riverview Library,front,yes,no,no,wide,no
+robertshall-back-01.png,Roberts Hall,back,no,no,yes,wide,yes
+rose-back-01.png,Rose Dining Hall,back,no,no,yes,narrow,yes
+sibleyhall-back-01.png,Sibley Hall,back,no,no,yes,wide,yes
+sibleyhall-back-02.png,Sibley Hall,back,no,no,yes,narrow,yes
+spacesciences-front-01.png,Space Sciences Building,front,no,no,yes,wide,yes
+statler-back-01.png,Statler Hall,back,no,no,yes,wide,no
+statler-front-01.png,Statler Hall,front,no,no,yes,wide,no
+summitfitness-front-01.png,Summit Fitness,front,yes,no,no,wide,no
+thurston-front-01.png,Thurston Hall,front,no,no,yes,wide,no
+upson-back-01.png,Upson Hall,back,no,no,yes,wide,yes
+uris-front-01.png,Uris Hall,front,no,yes,no,wide,no
+warren-back-01.png,Warren Hall,back,no,no,yes,wide,yes
+weill-front-01.png,Weill Hall,front,no,no,yes,wide,yes
+westbrook-front-01.png,Westbrook College,front,yes,no,no,wide,no
